@@ -1,10 +1,6 @@
 # Atividade-4-Redes-Neurais
 
-
-
-### Integrantes do grupo:
-
-#### Diego Diniz & Ian Matsuhara
+# Akuno: Ian Matsuhara Ferraz
 
 
 
